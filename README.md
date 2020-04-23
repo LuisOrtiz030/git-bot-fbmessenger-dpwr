@@ -1,4 +1,4 @@
-## BOT FACEBOOK MESSENGER -- WOOCOMERCE
+## BOT FACEBOOK MESSENGER <-> WOOCOMERCE
 This project for [Tienda de Diablo Power](https://store.diablopower.mx/) integrated in [Your FB Fanpage](https://www.facebook.com/DiabloPower)
 
 
