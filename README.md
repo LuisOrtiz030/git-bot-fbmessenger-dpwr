@@ -1,5 +1,5 @@
 ## BOT FACEBOOK MESSENGER <-> WOOCOMERCE
-This project for [Tienda de Diablo Power](https://store.diablopower.mx/) integrated in [Your FB Fanpage](https://www.facebook.com/DiabloPower)
+This is a project for [Tienda de Diablo Power](https://store.diablopower.mx/) integrated in [ Your  FB Fanpage](https://www.facebook.com/DiabloPower)
 
 
 ![LOGO DPWR](https://scontent-qro1-1.xx.fbcdn.net/v/t1.0-9/p960x960/37926719_2078724375479749_4421379732688338944_o.jpg?_nc_cat=108&_nc_sid=7aed08&_nc_ohc=06gBTQqyssUAX-2QzU-&_nc_ht=scontent-qro1-1.xx&_nc_tp=6&oh=d1f6d6e43f8e1007ba2afe99ec393467&oe=5EC5F99F)
